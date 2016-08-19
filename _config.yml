@@ -1,14 +1,14 @@
-layout_spectrum: 0.18823203071951866
-typography_spectrum: 0.7096340653952211
+layout_spectrum: 0.8880344899371266
+typography_spectrum: 0.4420052708592266
 color:
-  brandStrength: 0.5949354348704219
-  lightness: 0.6916562709957361
-  saturation: 0.6202141258399934
-  rhythmicContrast: 0.5538706169463694
+  brandStrength: 0.5285201501101255
+  lightness: 0.3133511927444488
+  saturation: 0.651781655382365
+  rhythmicContrast: 0.6647245280910283
   brandColors:
-    - '#FFFFFF'
-    - '#53B0A5'
-    - '#61718B'
-    - '#C9ADAC'
-    - '#0084FE'
+    - '#2C3E50'
+    - '#E74C3C'
+    - '#ECF0F1'
+    - '#3498DB'
+    - '#2980B9'
 name: NERD + YOGI
